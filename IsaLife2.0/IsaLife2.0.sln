@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsaLife2.0.Android", "IsaLife2.0\IsaLife2.0.Android\IsaLife2.0.Android.csproj", "{44020ED1-2D41-43B2-87F0-1B5999DEEB59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsaLifeUpdated.Android", "IsaLife2.0\IsaLife2.0.Android\IsaLifeUpdated.Android.csproj", "{44020ED1-2D41-43B2-87F0-1B5999DEEB59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsaLife2.0.iOS", "IsaLife2.0\IsaLife2.0.iOS\IsaLife2.0.iOS.csproj", "{0F6D601E-38CD-4660-8FAA-11145A256305}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsaLifeUpdated.iOS", "IsaLife2.0\IsaLife2.0.iOS\IsaLifeUpdated.iOS.csproj", "{0F6D601E-38CD-4660-8FAA-11145A256305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsaLife2.0", "IsaLife2.0\IsaLife2.0\IsaLife2.0.csproj", "{CBB95C01-0798-4E80-ABBF-F6538F55A870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsaLifeUpdated", "IsaLife2.0\IsaLife2.0\IsaLifeUpdated.csproj", "{CBB95C01-0798-4E80-ABBF-F6538F55A870}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

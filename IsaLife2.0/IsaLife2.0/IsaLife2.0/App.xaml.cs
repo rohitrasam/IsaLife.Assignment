@@ -1,8 +1,11 @@
-﻿using System;
+﻿using FreshMvvm;
+using IsaLifeUpdated.PageModels;
+using IsaLifeUpdated.Pages;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace IsaLife2._0
+namespace IsaLifeUpdated
 {
     public partial class App : Application
     {
@@ -10,7 +13,7 @@ namespace IsaLife2._0
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = FreshPageModelResolver.ResolvePageModel<HomePageModel>();
         }
 
         protected override void OnStart()
